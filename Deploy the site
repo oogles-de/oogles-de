@@ -1,0 +1,4 @@
+git add
+git commit -m "Deploy the site into a web hosting server"
+git fetch origin main
+git push origin main into a github page
