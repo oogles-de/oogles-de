@@ -1,0 +1,6 @@
+mkdir-p about services contact assets/
+css assets/js assets/images
+touch about/index.html services/
+index.html contact/index.html
+touch assets/css/ style.css assets/js/
+main.js README.md
