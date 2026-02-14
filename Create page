@@ -1,0 +1,9 @@
+echo "<!DOCTYPE html>
+<html>
+<head>
+ <title>Acme Inc</title>
+</head>
+</body>
+ <h1>Welcome to Acme inc</h1>
+</body
+</html>"> index.html
