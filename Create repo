@@ -1,4 +1,4 @@
 gh auth login
-gh repo create acmeinc.github.io
+gh repo create nipov.github.io/GPO
 public --source= --remote=origin
 push
